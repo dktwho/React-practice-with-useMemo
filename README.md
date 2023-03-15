@@ -1,3 +1,7 @@
+# Содержание
+
+Практика с useMemo - возвращает мемозированное значение (кэшируем значение, в него нельзя помещать побочные эффекты, запросы и эффекты).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
